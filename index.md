@@ -3,7 +3,7 @@ layout: home
 header:
   title: CoWarning-App
   text: >
-    Die bessere Corona Warn-App, die so gut wie keine Daten von dir verlangt. 
+    Die bessere Corona Warn-App, die so gut wie keine Daten von dir verlangt. Ganz ohne Klick kannst du dich bei Events oder auch persönlich erstellten Veranstaltungen registrieren. 
 
 
 sections:
@@ -11,7 +11,7 @@ sections:
     section_id: about
     background_style: bg-primary
     title: Das Ende der Zettelwirtschaft
-    text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
+    text: Die Co-Warning App macht der Zettelwirtschaft ein Ende. Mit automatischem Tracing werden Personen registriert, wenn sie einen Laden oder auch ein persönlich erstelltes Event besuchen. 
 
   - type: services.html
     section_id: service
