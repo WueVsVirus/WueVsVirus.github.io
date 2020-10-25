@@ -1,10 +1,9 @@
 ---
 layout: home
 header:
-  title: WueVsVirus Name
+  title: Co-warning App
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+    Die bessere Corona-App, die so gut wie keine Daten von dir verlangt. Anonym und nahtlos mit Bluetooth.
   action: # action button is optional
     label: Find Out More
     url: '#about'
@@ -27,23 +26,18 @@ sections:
     title: Funktionalität
     services:
       - title: Risikoermittlung
-        text: Dein persönliches Risiko. 
+        text: Dein persönliches Corona-Risiko ermittelt täglich.
         icon: fa-gem text-info
       - title: Automatisches Tracing
-        text: You can use this theme as is, or you can make changes!
+        text: Bluetooth Tracing über Bluetooth Beacons vor Ort: Nichts auszufüllen.
         icon: fa-paper-plane
       - title: Eigene Events erstellen
-        text: We update dependencies to keep things fresh.
+        text: Du kannst selbst Kontaktverfolgungen für deine eigene Events starten.
         icon: fa-laptop-code
       - title: Made with Love
-        text: You have to make your websites with love these days!
+        text: Mit ganz viel Liebe von WuevsVirus
         icon: fa-heart
-      - title: Other 1
-        text: Some not-so long text here.
-        icon: fa-heart
-      - title: Other 2
-        text: Some not-so long text here.
-        icon: fa-heart
+  
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
