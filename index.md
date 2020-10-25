@@ -20,10 +20,10 @@ sections:
     services:
       - title: Risikoermittlung
         text: Dein persönliches Risiko jeden Tag ermittelt.
-        icon: fa-gem text-info
+        icon: fa-laptop-code
       - title: Automatisches Tracing
         text: Bluetooth-gestützes Tracing ohne lästige Zettelwirtschaft und Qr-Code suchen.
-        icon: fa-paper-plane
+        icon: fa-laptop-code
       - title: Eigene Events erstellen
         text: Mit deinem eigenen Handy Kontaktverfolgung für eigene Events eröffnen. Sicher auch privat.
         icon: fa-laptop-code
