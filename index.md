@@ -19,16 +19,16 @@ sections:
     title: Funktionalität
     services:
       - title: Risikoermittlung
-        text: Dein persönliches Risiko. 
+        text: Dein persönliches Risiko jeden Tag ermittelt.
         icon: fa-gem text-info
       - title: Automatisches Tracing
-        text: You can use this theme as is, or you can make changes!
+        text: Bluetooth-gestützes Tracing ohne lästige Zettelwirtschaft und Qr-Code suchen.
         icon: fa-paper-plane
       - title: Eigene Events erstellen
-        text: We update dependencies to keep things fresh.
+        text: Mit deinem eigenen Handy Kontaktverfolgung für eigene Events eröffnen. Sicher auch privat.
         icon: fa-laptop-code
       - title: Made with Love
-        text: You have to make your websites with love these days!
+        text: Mit Liebe vom WueVsvirus-Team hergestellt
         icon: fa-heart
       - title: Other 1
         text: Some not-so long text here.
@@ -80,11 +80,11 @@ sections:
         image: assets/img/members/person1.jpg
         url: '#'
       - title: Jeremias
-        text: Blootooth Experte
+        text: Bluetooth Experte
         image: assets/img/members/person2.jpg
         url: '#'
       - title: Roland
-        text: Bluetooth Experte 2
+        text: Bluetooth Experte
         image: assets/img/members/person3.jpg
         url: '#'
       - title: Stephanie
@@ -116,26 +116,5 @@ sections:
         text: >-
           We started to gather like minded people and started our stategies
           and future plans to them. As a result , interested people joined us!
-
-  - type: contact.html
-    section_id: contacts
-    title: Let's Get In Touch!
-    text: >-
-      Ready to start your next project with us? Give us a call or send us an email
-      and we will get back to you as soon as possible!
-    actions:
-    - title: +1 (202) 555-014
-      icon: fa-phone
-    - title: E-Mail
-      icon: fa-envelope
-      url: mailto:contact@yourwebsite.com
-    - title: Twitter
-      icon: fa-twitter
-      icon_type: fab
-      url: '#'
-    - title: Facebook
-      icon: fa-facebook
-      icon_type: fab
-      url: '#'
 
 ---
