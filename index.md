@@ -22,18 +22,18 @@ sections:
         class: btn-light
 
   - type: services.html
-    section_id: services
+    section_id: Funktionen
     #background_style: bg-info
     title: At Your Service
     services:
-      - title: Sturdy Templates
-        text: Our templates are updated regularly so they don't break.
+      - title: Risikoermittlung
+        text: Dein persönliches Risiko. 
         icon: fa-gem text-info
         url: https://startbootstrap.com/
-      - title: Ready to Ship
+      - title: Automatisches Tracing
         text: You can use this theme as is, or you can make changes!
         icon: fa-paper-plane
-      - title: Up to Date
+      - title: Eigene Events erstellen
         text: We update dependencies to keep things fresh.
         icon: fa-laptop-code
       - title: Made with Love
