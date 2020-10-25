@@ -99,17 +99,17 @@ sections:
         text: Blootooth Experte
         image: assets/img/members/person2.jpg
         url: '#'
-      - title: Stephanie
-        text: UI & UX
+      - title: Roland
+        text: Bluetooth Experte 2
         image: assets/img/members/person3.jpg
         url: '#'
-      - title: Roland
-        text: Blootooth Experte 2
-        image: assets/img/members/person5.jpg
+      - title: Stephanie
+        text: UI & UX
+        image: assets/img/members/person4.jpg
         url: '#'
       - title: Viktoria
         text: UI & UX
-        image: assets/img/members/person6.jpg
+        image: assets/img/members/person5.jpg
         url: '#'
 
   - type: timeline.html
