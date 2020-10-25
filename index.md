@@ -11,7 +11,7 @@ sections:
     section_id: about
     background_style: bg-primary
     title: Das Ende der Zettelwirtschaft
-    text: Die Co-Warning App macht der Zettelwirtschaft ein Ende. Mit automatischem Tracing werden Personen registriert, wenn sie einen Laden oder auch ein persönlich erstelltes Event besuchen. 
+    text: Die Co-Warning App macht der Zettelwirtschaft ein Ende. Mit automatischem Tracing werden Personen registriert, wenn sie einen Laden oder auch ein persönlich erstelltes Event besuchen - und alles ganz ohne einen einzigen Klick. 
 
   - type: services.html
     section_id: service
