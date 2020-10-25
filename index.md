@@ -29,7 +29,6 @@ sections:
       - title: Risikoermittlung
         text: Dein persönliches Risiko. 
         icon: fa-gem text-info
-        url: https://startbootstrap.com/
       - title: Automatisches Tracing
         text: You can use this theme as is, or you can make changes!
         icon: fa-paper-plane
