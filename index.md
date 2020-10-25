@@ -22,9 +22,9 @@ sections:
         class: btn-light
 
   - type: services.html
-    section_id: Funktionen
+    section_id: service
     #background_style: bg-info
-    title: At Your Service
+    title: Funktionalität
     services:
       - title: Risikoermittlung
         text: Dein persönliches Risiko. 
