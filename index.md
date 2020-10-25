@@ -39,11 +39,11 @@ sections:
         image: assets/img/members/person1.jpg
         url: '#'
       - title: Jeremias
-        text: Bluetooth Experte
+        text: Backend
         image: assets/img/members/person2.jpg
         url: '#'
       - title: Roland
-        text: Bluetooth Experte
+        text: Bluetooth Experte & Backend
         image: assets/img/members/person3.jpg
         url: '#'
       - title: Stephanie
