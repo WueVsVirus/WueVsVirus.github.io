@@ -93,29 +93,29 @@ sections:
     background_style: bg-info text-white
     members:
       - title: Gregor
-        text: Singer and Songwriter
+        text: Frontend
         image: assets/img/members/person1.jpg
         url: '#'
       - title: Jeremias
-        text: Bass guitar.
+        text: Blootooth Experte
         image: assets/img/members/person2.jpg
         url: '#'
       - title: Stephanie
-        text: Lead guitar.
+        text: UI & UX
         image: assets/img/members/person3.jpg
         url: '#'
       - title: Roland
-        text: Drums, percussion.
+        text: Blootooth Experte 2
         image: assets/img/members/person5.jpg
         url: '#'
       - title: Viktoria
-        text: Musician, songwriter, producer.
+        text: UI & UX
         image: assets/img/members/person6.jpg
         url: '#'
 
   - type: timeline.html
     section_id: timeline
-    title: Major Achievements!
+    title: Unsere Meilensteine
     background_style: bg-dark text-primary
     last_image: assets/img/timeline-end.png
     actions:
