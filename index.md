@@ -27,15 +27,6 @@ sections:
       - title: Eigene Events erstellen
         text: Mit deinem eigenen Handy Kontaktverfolgung für eigene Events eröffnen. Sicher auch privat.
         icon: fa-laptop-code
-      - title: Made with Love
-        text: Mit Liebe vom WueVsvirus-Team hergestellt
-        icon: fa-heart
-      - title: Other 1
-        text: Some not-so long text here.
-        icon: fa-heart
-      - title: Other 2
-        text: Some not-so long text here.
-        icon: fa-heart
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
